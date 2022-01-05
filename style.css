@@ -31,3 +31,9 @@ section{
     background-repeat: no-repeat;
     
 }
+.big-dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right ;
+    padding: 0px 80px 300px;
+}
